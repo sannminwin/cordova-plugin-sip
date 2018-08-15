@@ -17,7 +17,7 @@
   <platform name="android">
     <config-file target="config.xml" parent="/*">
       <feature name="Linphone">
-        <param name="android-package" value="com.sip.linphone.Linphone" />
+        <param name="android-package" value="clear" />
       </feature>
     </config-file>
 
